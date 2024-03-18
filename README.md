@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SugandhKumars
-- 👀 I’m interested in Full Stack Development and BlockChain.
-- 🌱 I’m currently learning Frontend Development.
-- 💞️ I’m looking to collaborate on any Javascript Project in frontend.
+- 👀 Interested in Full Stack Development and BlockChain.
+- 🌱 Currently learning Backend Development.
+- 💞️Looking to collaborate on any Javascript Project in frontend.
 - 📫 How to reach me mail - sugandh72kumar@gmail.com
 
 
